@@ -1,4 +1,4 @@
-function convertToRoman(num) {
+function convertToRoman(num) : string {
   let romString = '';
 
   while ( num > 0 ) {
